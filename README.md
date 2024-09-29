@@ -31,4 +31,4 @@ The dataset used for this project contains various attributes of used cars, incl
 - **clean_title:** Indicator of whether the car has a clean title (yes/no)
 - **price:** Target variable (what we aim to predict)
 
-You can find the dataset in the `data` directory.
+You can find the dataset in the `playground-series-s4e9.zip` directory.
